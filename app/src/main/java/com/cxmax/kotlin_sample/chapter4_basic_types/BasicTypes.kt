@@ -1,4 +1,4 @@
-package com.cxmax.kotlin_sample.chapter4_basic_tyes
+package com.cxmax.kotlin_sample.chapter4_basic_types
 
 /**
  * @describe :
